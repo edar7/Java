@@ -8,6 +8,7 @@ public class EntrevistaJavaApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(EntrevistaJavaApplication.class, args);
+		System.out.println("OK");
 	}
 
 }
